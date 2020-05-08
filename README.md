@@ -6,5 +6,7 @@ https://github.com/londonappbrewery
 
 ____
 
+https://github.com/londonappbrewery/bmi-calculator-flutter
+
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
