@@ -1,5 +1,6 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+BMI Calculator created with Flutter and Dart. Created as part of learning Flutter using a course from London App Brewery.
 
+____
 
 # BMI Calculator 💪
 
